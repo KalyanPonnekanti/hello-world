@@ -4,7 +4,7 @@ I work as a Technical Publication Manager with Synopsys, Inc. mostly writing and
 
 This blog focusses primarily on the following:
 
-   * Troubleshooting day-to-day tool-related problems, opportunities, and innovation that me and my team face when doing our work.
+   * Troubleshooting day-to-day tool-related problems, opportunities, and innovation that my team and I face when doing our work.
    * Working with different sources: ReST, DITA, unstructured FrameMaker, RTF, Doxygen
    * Authoring in DITA using FrameMaker
    * Converting unstructured content to DITA
